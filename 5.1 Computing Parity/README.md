@@ -10,7 +10,7 @@ Signed vs Unsigned
 Parity 
 - Even if number of 1's is even, odd otherwise
 
-Check for more about computing parity site:http://stackoverflow.com/questions/17350906/computing-the-parity
+More about [Computing Parity] (http://stackoverflow.com/questions/17350906/computing-the-parity)
 
 **BOOK SOLUTIONS**
 
