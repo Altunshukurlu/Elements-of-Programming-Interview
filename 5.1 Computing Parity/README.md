@@ -1,6 +1,6 @@
-5.1 Computing Parity 
+<h1>5.1 Computing Parity</h1>
 
-EXTRA INFORMATION
+**EXTRA INFORMATION**
 
 Signed vs Unsigned 
 - Unsigned can hold a larger positive value, and no negative value 
@@ -12,7 +12,7 @@ Parity
 
 Check for more about computing parity site:http://stackoverflow.com/questions/17350906/computing-the-parity
 
-BOOK SOLUTIONS
+**BOOK SOLUTIONS**
 
 1- Brute force: compute each bits parity one-by-one
 2- Edited Brute Force: erase LSB in a single operation 
