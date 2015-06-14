@@ -14,8 +14,8 @@ Check for more about computing parity site:http://stackoverflow.com/questions/17
 
 **BOOK SOLUTIONS**
 
-1- Brute force: compute each bits parity one-by-one
-2- Edited Brute Force: erase LSB in a single operation 
-3- Precompute the answer and store it in an array. 
+1. Brute force: compute each bits parity one-by-one
+2. Edited Brute Force: erase LSB in a single operation 
+3. Precompute the answer and store it in an array. 
 
 pg 173 for more information
