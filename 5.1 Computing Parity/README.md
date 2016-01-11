@@ -19,4 +19,4 @@ More about [Bitwise Operations] (http://www.cprogramming.com/tutorial/bitwise_op
 2. Edited Brute Force: erase LSB in a single operation 
 3. Precompute the answer and store it in an array. 
 
-pg 173 for more information
+pg173 for more information
