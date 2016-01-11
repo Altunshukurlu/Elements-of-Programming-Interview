@@ -10,8 +10,8 @@ Signed vs Unsigned
 Parity 
 - Even if number of 1's is even, odd otherwise
 
-- More about [Computing Parity] (http://stackoverflow.com/questions/17350906/computing-the-parity) 
-- More about [Bitwise Operations] (http://www.cprogramming.com/tutorial/bitwise_operators.html) 
+More about [Computing Parity] (http://stackoverflow.com/questions/17350906/computing-the-parity) 
+More about [Bitwise Operations] (http://www.cprogramming.com/tutorial/bitwise_operators.html) 
 
 **BOOK SOLUTIONS**
 
