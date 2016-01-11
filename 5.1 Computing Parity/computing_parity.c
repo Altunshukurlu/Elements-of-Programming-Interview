@@ -6,13 +6,13 @@ typedef unsigned long int uint64_t;
 
 int main()
 {
-	uint64_t x = 4223372036854775807LL;
+	uint64_t x = 14;
 	
 	printf("Value of X: %lld\n", (long long)x);
 	
 	//combine all bits at the LSB
-	x ^= x >> 32; 
-	x ^= x >> 16; 
+	x ^= x >> 32;  //XOR's first 32 bits with last 32 bits, stores in x 
+	x ^= x >> 16;  //same fashion 
 	x ^= x >> 8; 
 	x ^= x >> 4; 
 	x ^= x >> 2; 
@@ -20,7 +20,6 @@ int main()
 	
 	//take the last bit
 	x = x & 1; 
-	
     printf("Parity of X: %lld\n", (long long)x);
     
     
