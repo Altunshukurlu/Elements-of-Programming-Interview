@@ -20,6 +20,7 @@ The logic is simple, extract the prime number from the list, and remove all numb
 Update: Obviously, this algorithm is called Sieve_of_Eratosthenes
 
 More about [Sieve_of_Eratosthenes] (https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+
 [Brute Force Algorithm] (http://www.cs.cmu.edu/~scandal/cacm/node8.html)
 
 **BOOK SOLUTIONS**
