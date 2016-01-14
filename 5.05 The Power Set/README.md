@@ -1,4 +1,4 @@
-<h1>5.5 The Power Set </h1>
+<h1>5.5 The Power Set</h1>
 
 **INFORMATION/COMMENTS**
 
