@@ -18,13 +18,13 @@ Primitive Types
 | [Swap bits][4]                                                           | [tests][5]   |    ✓    |
 | [Reverse bits][6]                                                        | [tests][7]   |    ✓    |
 | [Find a closest integer with the same weight][8]                         | [tests][9]   |    ✓    |
-| [Compute *x × y* without arithmetical operators][10]                     | [tests][11]  |         |
-| [Compute *x/y*][12]                                                      | [tests][13]  |         |
-| [Compute *x^y*][14]                                                      | [tests][15]  |         |
-| [Reverse digits][16]                                                     | [tests][17]  |         |
-| [Check if a decimal integer is a palindrome][18]                         | [tests][19]  |         |
-| [Generate uniform random numbers][20]                                    | [tests][21]  |         |
-| [Rectangle intersection][22]                                             | [tests][23]  |         |
+| [Compute *x × y* without arithmetical operators][10]                     | [tests][11]  |    ✓    |
+| [Compute *x/y*][12]                                                      | [tests][13]  |    ✓    |
+| [Compute *x^y*][14]                                                      | [tests][15]  |    ✓    |
+| [Reverse digits][16]                                                     | [tests][17]  |    ✓    |
+| [Check if a decimal integer is a palindrome][18]                         | [tests][19]  |    ✓    |
+| [Generate uniform random numbers][20]                                    | [tests][21]  |    ✓    |
+| [Rectangle intersection][22]                                             | [tests][23]  |    ✓    |
 
 Arrays
 ------
@@ -404,7 +404,7 @@ Honors Class
 | [Implement a producer-consumer queue][544]                               | [tests][545] |         |
 
 [1]:   http://elementsofprogramminginterviews.com
-[2]:   ptypes/parity.go
+[2]:   https://github.com/Altunshukurlu/Elements-of-Programming-Interview/blob/master/5.01%20Computing%20Parity/computing_parity.c
 [3]:   ptypes/parity_test.go
 [4]:   ptypes/swapbits.go
 [5]:   ptypes/swapbits_test.go
