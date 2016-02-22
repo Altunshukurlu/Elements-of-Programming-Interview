@@ -12,19 +12,19 @@ Solutions
 Primitive Types
 ---------------
 
-| Problem                                                                  | Test         | Solved  |
-|--------------------------------------------------------------------------|:------------:|:-------:|
-| [Computing the parity of a word][2]                                      | [tests][3]   |    ✓    |
-| [Swap bits][4]                                                           | [tests][5]   |    ✓    |
-| [Reverse bits][6]                                                        | [tests][7]   |    ✓    |
-| [Find a closest integer with the same weight][8]                         | [tests][9]   |    ✓    |
-| [Compute *x × y* without arithmetical operators][10]                     | [tests][11]  |    ✓    |
-| [Compute *x/y*][12]                                                      | [tests][13]  |    ✓    |
-| [Compute *x^y*][14]                                                      | [tests][15]  |    ✓    |
-| [Reverse digits][16]                                                     | [tests][17]  |    ✓    |
-| [Check if a decimal integer is a palindrome][18]                         | [tests][19]  |    ✓    |
-| [Generate uniform random numbers][20]                                    | [tests][21]  |    ✓    |
-| [Rectangle intersection][22]                                             | [tests][23]  |    ✓    |
+| Problem                                                                  | Solved  |
+|--------------------------------------------------------------------------|:-------:|
+| [Computing the parity of a word][1]                                      |    ✓    |
+| [Swap bits][2]                                                           |    ✓    |
+| [Reverse bits][3]                                                        |    ✓    |
+| [Find a closest integer with the same weight][4]                         |    ✓    |
+| [Compute *x × y* without arithmetical operators][5]                      |    ✓    |
+| [Compute *x/y*][6]                                                       |    ✓    |
+| [Compute *x^y*][7]                                                       |    ✓    |
+| [Reverse digits][8]                                                      |    ✓    |
+| [Check if a decimal integer is a palindrome][9]                          |    ✓    |
+| [Generate uniform random numbers][10]                                    |    ✓    |
+| [Rectangle intersection][1]                                              |    ✓    |
 
 Arrays
 ------
